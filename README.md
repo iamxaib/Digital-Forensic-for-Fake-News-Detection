@@ -85,7 +85,7 @@ The proposed framework achieves strong detection performance on the ISOT dataset
 👤 Author
 
 Aurangzaib Bhatti
-PhD Researcher - Digital Forensics
+PhD Scholar - Digital Forensics
 
 
 License
