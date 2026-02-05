@@ -90,4 +90,4 @@ PhD Researcher - Digital Forensics
 
 License
 
-This project is intended for research and educational purposes.
+This work is intended for research and educational purposes only.
